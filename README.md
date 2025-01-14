@@ -1,12 +1,34 @@
 # Superstore---Power-BI-Sales-Prediction-
 
-In this project, I built an interactive and visually appealing sales dashboard to analyze business performance and provide actionable insights. The project focused on:
+Dataset Overview:
+Size: 5,901 records across 23 columns.
 
-## Dashboard Creation:
-Designed an intuitive dashboard to identify key performance indicators (KPIs), enabling to explore sales data at various levels of granularity with filtering capabilities.
+Key Features:
+Sales Details: Includes product categories, subcategories, and associated sales, profits, and quantities.
+Customer Insights: Data on customer names, IDs, and segments (e.g., Corporate, Consumer).
+Geographic Details: Information on cities, states, and regions in the United States.
+Transaction Details: Includes order and shipping dates, ship modes, and payment modes.
+Returns Data: Partial information on returned items.
 
-## Data Analysis:
-Analyzed historic sales data to provide insights into the effectiveness of sales strategies through visualizations and charts.
+Project Goals:
 
-## Sales Forecasting:
-Applied time series analysis techniques to generate accurate sales forecasts for the next 15 days.
+Dashboard Creation:
+Built an interactive Power BI dashboard to visualize KPIs such as sales, profits, and product performance.
+Enabled filtering and drill-downs for regional, customer, and product-level analysis.
+
+Data Analysis:
+Assessed the profitability and performance of different product categories and subcategories.
+Analyzed customer purchasing patterns across segments (e.g., Corporate, Consumer).
+Visualized shipping methods and their impact on sales and delivery times.
+
+Sales Forecasting:
+Used historical sales data to forecast potential sales for the next 15 days using time series analysis.
+Insights and Recommendations:
+
+Identified top-performing regions and underperforming categories.
+Recommended strategies to optimize product pricing and improve operational efficiency.
+
+Techniques:
+Power BI: For creating dashboards and visualizations.
+Data Cleaning: Addressed null values (e.g., returns data) and ensured data consistency.
+Statistical Analysis: Used profit margins and sales trends to guide business decisions.
