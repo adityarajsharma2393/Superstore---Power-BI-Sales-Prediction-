@@ -1,18 +1,12 @@
 # Superstore---Power-BI-Sales-Prediction-
 
-In this Power BI project, I successfully executed an end-to-end workflow, showcasing my expertise in data visualization and analytics. The project encompassed the following key steps:
+In this project, I built an interactive and visually appealing sales dashboard to analyze business performance and provide actionable insights. The project focused on:
 
-## Data Import and Preparation
+## Dashboard Creation:
+Designed an intuitive dashboard to identify key performance indicators (KPIs), enabling users to explore sales data at various levels of granularity with filtering capabilities.
 
-## Imported data from multiple sources, ensuring seamless integration.
-Cleaned and transformed raw data using Power Query, addressing duplicates, missing values, and inconsistencies to ensure a robust foundation for analysis.
+## Data Analysis:
+Analyzed historic sales data to provide insights into the effectiveness of sales strategies through visualizations and charts.
 
-## Dashboard Design and Development
-Designed an intuitive, visually engaging dashboard tailored to highlight key metrics and trends.
-Incorporated advanced charts, maps, and interactive elements, including slicers and filters, to enhance user engagement and data exploration.
-
-## Advanced Analytics and Forecasting
-Utilized Power BI’s advanced analytics capabilities, adding predictive forecasting and trendlines to provide actionable insights.
-
-
-
+## Sales Forecasting:
+Applied time series analysis techniques to generate accurate sales forecasts for the next 15 days.
